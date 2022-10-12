@@ -4,3 +4,4 @@ wav_data/
 json_data/
 csv_data/
 noises_samples/
+.gitignore
